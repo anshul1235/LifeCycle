@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidBootcamp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="goto_activity2">Goto Activity 2</string>
+    <string name="title_activity_activity_two">ActivityTwo</string>
+    <string name="activity_two">Activity Two</string>
+    <string name="strike_text"><strike>this is a strike text</strike></string>
+</resources>
